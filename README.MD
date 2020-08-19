@@ -8,12 +8,15 @@ test integers for triangle.
 
 bitCounting:  
 retern numbers of bits from number.
-  
+
 ReplaceWithAlphabetPosition:  
 change letters on numbers with alphabet position.  
-  
+
 youreSquare:  
 return true if number have sqrt.  
-  
+
 IQTest:  
 need find uniq number.
+
+descendingOrder:  
+sort and reverse string.
