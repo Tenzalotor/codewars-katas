@@ -20,3 +20,6 @@ need find uniq number.
 
 descendingOrder:  
 sort and reverse string.
+
+exesAndOhs:  
+if number of 'x' and 'o' eqiul return true.
