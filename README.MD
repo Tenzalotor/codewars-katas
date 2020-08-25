@@ -25,4 +25,7 @@ exesAndOhs:
 if number of 'x' and 'o' eqiul return true.  
 
 isANumberPrime:  
-check is a prime number.
+check is a prime number.  
+  
+The Supermarket Queue:  
+find the time for all customers.  
