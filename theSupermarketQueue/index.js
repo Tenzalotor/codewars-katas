@@ -1,13 +1,10 @@
 function queueTime(customers, n) {
-    if(customers.length == 0) {
-        return 0;
+    let w = new Array(n).fill(0);
+    for (let t of customers) {
+        let idx = w.indexOf(Math.min(...w));
+        w[idx] += t;
     }
-    if(customers.length <= n) {
-        return customers.length;
-    }
-    customersTime = customers.reduce((sum, el) => sum + el);
-
-    return customersTime / n;
+    return Math.max(...w);
 }
 
-console.log(queueTime([2,2,3,3,4,4], 2));
+console.log(queueTime([10,2,3,3], 2));
