@@ -27,7 +27,7 @@ function score( dice ) {
     score = one.map(el => el * 50).reduce(sum, el => sum + el);
   } else if(one.length < 6) {
     let combo = one.splice(0, 3);
-    
+    фывцф
   }
 }
 
