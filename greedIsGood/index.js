@@ -30,6 +30,10 @@ function score( dice ) {
   } else if(one.length == 6) {
     score =+ 500;
   }
+
+  if(two.length < 3) {
+    
+  }
 }
 
 console.log(score( [2, 4, 4, 5, 4] ));
