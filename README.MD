@@ -32,3 +32,6 @@ find the time for all customers.
   
 Moving Zeros To The End:  
 move all zeroes in arr to the end.  
+  
+Count The Smiles Faces:  
+check smiles faces  
