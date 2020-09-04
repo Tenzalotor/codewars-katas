@@ -35,3 +35,6 @@ move all zeroes in arr to the end.
   
 Count The Smiles Faces:  
 check smiles faces  
+  
+Build Tower: 
+build tower with * symbol  
