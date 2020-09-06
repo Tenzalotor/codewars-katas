@@ -38,3 +38,6 @@ check smiles faces
   
 Build Tower: 
 build tower with * symbol  
+  
+Array Helper:  
+create class and add som methods for numbers  
